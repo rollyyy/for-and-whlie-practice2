@@ -30,10 +30,8 @@ public class Application3 {
 				System.out.print("박");           // i 값이 홀수가 아니라면 박을 출력해라
 			
 		}
-		
-		
-		
-	}
+	
+	 }
 
-}
+    }
 }
