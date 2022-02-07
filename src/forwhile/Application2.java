@@ -14,7 +14,7 @@ public class Application2 {
 		for (char ch = 97; ch <= 122; ch++) {
 			System.out.print(ch);
 			
-		} // 
+		}
 		
 	}
 
