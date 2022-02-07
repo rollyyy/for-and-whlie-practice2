@@ -32,13 +32,5 @@ public class Application1 {
 			System.out.println(i + " : " + ch);
 			
 		}
-		
-	
-		
-		
-		
-		
-		
 	}
-
 }
