@@ -38,13 +38,6 @@ public class D_doWhile {
 		
 		System.out.println("프로그램을 종료합니다.");
 		
-		
 	}
-	
-	
-	
-	
-	
-	
 
 }
